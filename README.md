@@ -19,11 +19,11 @@
 ### Estrutura do relatório
 
 #### Cabeçalho
-**Disciplina:** Sistemas Operacionais 
-**Curso**: Tecnologia em Análise e Desenvolvimento de Sistemas
-**Aluno:** [Nome do Aluno]
-**Data da Visita:** [dd/mm/aaaa]
-**Local Visitado:** [Nome do Departamento/Organização]
+- **Disciplina:** Sistemas Operacionais 
+- **Curso**: Tecnologia em Análise e Desenvolvimento de Sistemas
+- **Aluno:** [Nome do Aluno]
+- **Data da Visita:** [dd/mm/aaaa]
+- **Local Visitado:** [Nome do Departamento/Organização]
 
 ---
 #### **1. Introdução**  
