@@ -7,7 +7,7 @@
 - **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
 - disciplina: **SO** [Sistemas Operacionais](https://github.com/sistemas-operacionais/)
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
-- Repositótio do aluno: FIXME
+- Repositótio do aluno: [Ryan Ferreira Paulista](https://github.com/ryanpaulista)
 
 ## Tarefas do aluno
 
@@ -21,9 +21,9 @@
 #### Cabeçalho
 - **Disciplina:** Sistemas Operacionais 
 - **Curso**: Tecnologia em Análise e Desenvolvimento de Sistemas
-- **Aluno:** [Nome do Aluno]
-- **Data da Visita:** [dd/mm/aaaa]
-- **Local Visitado:** [Nome do Departamento/Organização]
+- **Aluno:** Ryan Ferreira Paulista
+- **Data da Visita:** 27/06/2025
+- **Local Visitado:** DGTI - Reitoria IFRN 
 
 ---
 #### **1. Introdução**  
