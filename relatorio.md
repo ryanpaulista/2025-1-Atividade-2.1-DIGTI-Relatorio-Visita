@@ -19,6 +19,7 @@ Diretor(a) de Gestão de TI (DGTI)
 Responsabilidades: Liderança estratégica, gestão de orçamento, definição de políticas macro, representação da TI junto à alta gestão do IFRN, planejamento de longo prazo.
 Coordenação de Infraestrutura e Redes
 Responsabilidades: Gerencia o data center central, os links de internet, a segurança de borda (firewalls principais) e os servidores que hospedam os serviços corporativos (SUAP, site, e-mail, etc.).
+
 ---
 
 #### **3. Aprendizados e Destaques**  
